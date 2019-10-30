@@ -1,0 +1,11 @@
+C:\Users\Ray\Desktop\Bike CS Projects\TxbraTransponders\TxbraTransponders\bin\Debug\netcoreapp3.0\TxbraTransponders.deps.json
+C:\Users\Ray\Desktop\Bike CS Projects\TxbraTransponders\TxbraTransponders\bin\Debug\netcoreapp3.0\TxbraTransponders.dll
+C:\Users\Ray\Desktop\Bike CS Projects\TxbraTransponders\TxbraTransponders\bin\Debug\netcoreapp3.0\TxbraTransponders.pdb
+C:\Users\Ray\Desktop\Bike CS Projects\TxbraTransponders\TxbraTransponders\bin\Debug\netcoreapp3.0\Utilities.dll
+C:\Users\Ray\Desktop\Bike CS Projects\TxbraTransponders\TxbraTransponders\bin\Debug\netcoreapp3.0\Utilities.pdb
+C:\Users\Ray\Desktop\Bike CS Projects\TxbraTransponders\TxbraTransponders\obj\Debug\netcoreapp3.0\TxbraTransponders.csprojAssemblyReference.cache
+C:\Users\Ray\Desktop\Bike CS Projects\TxbraTransponders\TxbraTransponders\obj\Debug\netcoreapp3.0\TxbraTransponders.AssemblyInfoInputs.cache
+C:\Users\Ray\Desktop\Bike CS Projects\TxbraTransponders\TxbraTransponders\obj\Debug\netcoreapp3.0\TxbraTransponders.AssemblyInfo.cs
+C:\Users\Ray\Desktop\Bike CS Projects\TxbraTransponders\TxbraTransponders\obj\Debug\netcoreapp3.0\TxbraTransponders.csproj.CopyComplete
+C:\Users\Ray\Desktop\Bike CS Projects\TxbraTransponders\TxbraTransponders\obj\Debug\netcoreapp3.0\TxbraTransponders.dll
+C:\Users\Ray\Desktop\Bike CS Projects\TxbraTransponders\TxbraTransponders\obj\Debug\netcoreapp3.0\TxbraTransponders.pdb
